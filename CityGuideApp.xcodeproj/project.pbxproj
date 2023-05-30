@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EC819A3E2A2608DC00E5D7E8 /* CityGuideAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC819A3D2A2608DC00E5D7E8 /* CityGuideAppApp.swift */; };
-		EC819A402A2608DC00E5D7E8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC819A3F2A2608DC00E5D7E8 /* ContentView.swift */; };
+		EC819A402A2608DC00E5D7E8 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC819A3F2A2608DC00E5D7E8 /* MainView.swift */; };
 		EC819A422A2608DE00E5D7E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC819A412A2608DE00E5D7E8 /* Assets.xcassets */; };
 		EC819A452A2608DE00E5D7E8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC819A442A2608DE00E5D7E8 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		EC819A3A2A2608DC00E5D7E8 /* CityGuideApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CityGuideApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC819A3D2A2608DC00E5D7E8 /* CityGuideAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityGuideAppApp.swift; sourceTree = "<group>"; };
-		EC819A3F2A2608DC00E5D7E8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		EC819A3F2A2608DC00E5D7E8 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		EC819A412A2608DE00E5D7E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC819A442A2608DE00E5D7E8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				EC819A3D2A2608DC00E5D7E8 /* CityGuideAppApp.swift */,
-				EC819A3F2A2608DC00E5D7E8 /* ContentView.swift */,
+				EC819A3F2A2608DC00E5D7E8 /* MainView.swift */,
 				EC819A412A2608DE00E5D7E8 /* Assets.xcassets */,
 				EC819A432A2608DE00E5D7E8 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EC819A402A2608DC00E5D7E8 /* ContentView.swift in Sources */,
+				EC819A402A2608DC00E5D7E8 /* MainView.swift in Sources */,
 				EC819A3E2A2608DC00E5D7E8 /* CityGuideAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
