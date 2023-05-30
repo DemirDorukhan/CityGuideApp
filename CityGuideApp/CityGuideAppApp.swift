@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct CityGuideAppApp: App {
+    
+    @StateObject var modelData = ModelData()
+    
     var body: some Scene {
         WindowGroup {
             MainView()
+                .environmentObject(modelData)
         }
     }
 }

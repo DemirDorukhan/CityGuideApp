@@ -5,21 +5,6 @@
 //  Created by Dorukhan Demir on 30.05.2023.
 //
 
-/*
- "city": "Paris",
- "category": "Capital",
- "country": "France",
- "id": 1001,
- "isFavorite": true,
- "icon": "Eiffel",
- "coordinates": {
-     "longitude": 48.858288,
-     "latitude": 2.294547
- },
- "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
- "imageName": "Eiffel"
-},
- */
 
 import Foundation
 import CoreLocation
@@ -66,8 +51,9 @@ struct City : Hashable, Codable, Identifiable {
     
             private var imageName : String
             
-            var cityImage : Image {
+            var CityImage : Image {
                 Image(imageName)
             }
+     
     
 }
