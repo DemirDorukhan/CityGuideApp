@@ -11,6 +11,7 @@
 		EC819A402A2608DC00E5D7E8 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC819A3F2A2608DC00E5D7E8 /* MainView.swift */; };
 		EC819A422A2608DE00E5D7E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC819A412A2608DE00E5D7E8 /* Assets.xcassets */; };
 		EC819A452A2608DE00E5D7E8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC819A442A2608DE00E5D7E8 /* Preview Assets.xcassets */; };
+		EC819A4C2A26405F00E5D7E8 /* CityGuideData.json in Resources */ = {isa = PBXBuildFile; fileRef = EC819A4B2A26405F00E5D7E8 /* CityGuideData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		EC819A3F2A2608DC00E5D7E8 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		EC819A412A2608DE00E5D7E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC819A442A2608DE00E5D7E8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EC819A4B2A26405F00E5D7E8 /* CityGuideData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CityGuideData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				EC819A3D2A2608DC00E5D7E8 /* CityGuideAppApp.swift */,
 				EC819A3F2A2608DC00E5D7E8 /* MainView.swift */,
 				EC819A412A2608DE00E5D7E8 /* Assets.xcassets */,
+				EC819A4B2A26405F00E5D7E8 /* CityGuideData.json */,
 				EC819A432A2608DE00E5D7E8 /* Preview Content */,
 			);
 			path = CityGuideApp;
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC819A4C2A26405F00E5D7E8 /* CityGuideData.json in Resources */,
 				EC819A452A2608DE00E5D7E8 /* Preview Assets.xcassets in Resources */,
 				EC819A422A2608DE00E5D7E8 /* Assets.xcassets in Resources */,
 			);
