@@ -1,0 +1,173 @@
+[
+    {
+        "cityName": "Paris",
+        "category": "Capital",
+        "country": "France",
+        "id": 1001,
+        "isFavorite": true,
+        "icon": "Eiffel",
+        "coordinates": {
+            "longitude": 48.858288,
+            "latitude": 2.294547
+        },
+        "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+        "imageName": "Eiffel"
+    },
+    {
+           "cityName": "Barcelona",
+           "category": "Coastal",
+           "country": "Spain",
+           "id": 1002,
+           "isFavorite": false,
+           "icon": "La Sagrada Familia",
+           "coordinates": {
+               "longitude": 41.40373688715078,
+               "latitude": 2.1741464539795126
+           },
+           "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+           "imageName": "LaSagradaFamilia"
+       },
+        {
+            "cityName": "Rome",
+            "category": "Capital",
+            "country": "Italy",
+            "id": 1003,
+            "isFavorite": true,
+            "icon": "Colosseum",
+            "coordinates": {
+                "longitude": 41.890203,
+                "latitude": 12.492028
+            },
+            "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+            "imageName": "Colosseum"
+        },
+        {
+                "cityName": "Venice",
+                "category": "Coastal",
+                "country": "Italy",
+                "id": 1004,
+                "isFavorite": true,
+                "icon": "Rialto Bridge",
+                "coordinates": {
+                    "longitude": 45.438007159771026,
+                    "latitude": 12.335910959657863
+                },
+                "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+                "imageName": "RialtoBridge"
+            },
+        {
+                "cityName": "Valencia",
+                "category": "Coastal",
+                "country": "Spain",
+                "id": 1005,
+                "isFavorite": true,
+                "icon": "Ciutat de les Arts i les Ciències",
+                "coordinates": {
+                    "longitude": 39.455161091201504,
+                    "latitude": -0.35058102769674204
+                },
+                "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+                "imageName": "CiutatDeLesArtsIlesCiencies"
+            },
+        {
+                "cityName": "Munich",
+                "category": "Inland",
+                "country": "Germany",
+                "id": 1006,
+                "isFavorite": false,
+                "icon": "Schloss Nymphenburg",
+                "coordinates": {
+                    "longitude": 48.16241083737981,
+                    "latitude": 11.503318158212625
+                },
+                "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+                "imageName": "SchlossNymphenburg"
+            },
+        {
+                "cityName": "Prague",
+                "category": "Capital",
+                "country": "Czechsia",
+                "id": 1007,
+                "isFavorite": false,
+                "icon": "Prague Castle",
+                "coordinates": {
+                    "longitude": 50.092398412305506,
+                    "latitude": 14.400997439359037
+                },
+                "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+                "imageName": "PragueCastle"
+            },
+        {
+                "cityName": "Budapest",
+                "category": "Capital",
+                "country": "Hungary",
+                "id": 1008,
+                "isFavorite": false,
+                "icon": "Budapest Parliament Building",
+                "coordinates": {
+                    "longitude": 47.509094997990914,
+                    "latitude": 19.045451940405503
+                },
+                "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+                "imageName": "BudapestParliamentBuilding"
+            },
+        {
+               "cityName": "Sofia",
+               "category": "Capital",
+               "country": "Bulgaria",
+               "id": 1009,
+               "isFavorite": true,
+               "icon": "Alexander Nevsky Cathedral",
+               "coordinates": {
+                   "longitude": 42.699188572326804,
+                   "latitude": 23.334215243871093
+               },
+               "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+               "imageName": "AlexanderNevskyCathedral"
+           },
+        
+        {
+               "cityName": "Haskovo",
+               "category": "Inland",
+               "country": "Bulgaria",
+               "id": 1010,
+               "isFavorite": false,
+               "icon": "Virgin Mary Monument",
+               "coordinates": {
+                   "longitude": 41.92864385490836,
+                   "latitude": 25.554068271118275
+               },
+               "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+               "imageName": "VirginMaryMonument"
+           },
+        {
+                "cityName": "Izmir",
+                "category": "Coastal",
+                "country": "Turkey",
+                "id": 1011,
+                "isFavorite": true,
+                "icon": "Izmir Watch Tower",
+                "coordinates": {
+                    "longitude": 38.4189924368878,
+                    "latitude": 27.12875364082678
+                },
+                "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+                "imageName": "IzmirWatchTower"
+            },
+        {
+                "cityName": "Ankara",
+                "category": "Capital",
+                "country": "Turkey",
+                "id": 1012,
+                "isFavorite": false,
+                "icon": "Ankara Mausoleum",
+                "coordinates": {
+                    "longitude": 39.925160932564694,
+                    "latitude": 32.83696535438831
+                },
+                "description": "Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit. Adipiscing elite esse cillum dolore eu, dolor ipsum sit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ad minim veniam, quis nostrud  aliquip ex ea commodo amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu exercitation lorem ullamco laboris nisi ut fugiat nulla pariatur reprehenderit in voluptate. Excepteur sint occaecat enim cupidatat non proident, sunt in culpa qui anim id est laborum officia deserunt mollit.",
+                "imageName": "AnkaraMausoleum"
+            }
+        
+        
+]
