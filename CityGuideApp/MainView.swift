@@ -9,8 +9,27 @@ import SwiftUI
 
 struct MainView: View {
 
+    enum Tab {
+        case scrool
+        case list
+    }
+    
+    @State private var selection = Tab.scrool
+    
     var body: some View {
-        Text("Hello")
+        
+        TabView(selection: $selection) {
+            CityCategoryHomePage()
+                .tabItem {
+                    Label("Grid", systemImage: "star")
+                }
+                .tag(Tab.scrool)
+            CityList()
+                .tabItem {
+                    Label("List", systemImage: "list.bullet")
+                }
+                .tag(Tab.list)
+        }
     }
 }
 
